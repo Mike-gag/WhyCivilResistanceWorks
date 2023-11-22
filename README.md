@@ -13,5 +13,7 @@
 * The study takes place in November-December of `2023`, and references data up until that point in time.
 
 # Data Used 
-* For our research we will draw data from the [Nonviolent and Violent Campaigns and Outcomes (NAVCO) Dataset](https://dataverse.harvard.edu/dataverse/navco), and in particular the [NAVCO 1.2 Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0UZOTX). We shall also use data from the [Polity Project](https://www.systemicpeace.org/polityproject.html), in particular the Polity5 version, available from [Integrated Network for Societal Conflict Research (INSCR)](https://www.systemicpeace.org/inscrdata.html), in particular the [Polity5 Annual Time-Series, 1946-2018](http://www.systemicpeace.org/inscr/p5v2018.xls).
+* For our research we will draw data from the [Nonviolent and Violent Campaigns and Outcomes (NAVCO) Dataset](https://dataverse.harvard.edu/dataverse/navco), and in particular the [NAVCO 1.2 Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/0UZOTX). In the repository is included the [NAVCO Data dictionary](data/NAVCO_data_dictionary.pdf) that provides more clarity as to what the different variables measure.
+
+* We shall also use data from the [Polity Project](https://www.systemicpeace.org/polityproject.html), available from [Integrated Network for Societal Conflict Research (INSCR)](https://www.systemicpeace.org/inscrdata.html), in particular the [Polity5 Annual Time-Series, 1946-2018](http://www.systemicpeace.org/inscr/p5v2018.xls). The [Polity5 Data Dictionary](data/Polity5DataDictionary.pdf) is provided as well for all intensive purposes.
 
